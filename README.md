@@ -6,7 +6,7 @@ A premium, interactive React Native mobile application for exploring pathway pro
 
 ## ✨ Features
 
-- **Premium Educational Dashboard**: Kartik Murali style profile header, filter settings, tag metrics, and search portals.
+- **Premium Educational Dashboard**: Personalized student profile header, filter settings, tag metrics, and search portals.
 - **Dynamic Product-Style Cards**: University items displaying flags, dynamic local tuition price tags, overlapping applicant avatars, ratings counts, and interactive tactile micro-animations.
 - **Active Pathways Progress**: Visual tracking list of student applications showing statuses and custom completion progress indicators.
 - **Modal Slide Transitions**: The details view slides up smoothly from the bottom as an overlay sheet, and slides back down when dismissed, maintaining back button state navigation.
